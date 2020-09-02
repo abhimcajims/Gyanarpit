@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "817064744686",
+    "firebase_url": "https://gyanarpit-bfaf6.firebaseio.com",
+    "project_id": "gyanarpit-bfaf6",
+    "storage_bucket": "gyanarpit-bfaf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817064744686:android:ca83c08abaec1f672e85ff",
+        "android_client_info": {
+          "package_name": "com.project.gyanarpit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817064744686-2o94cpcie246ljc5278v56hud1gttbgu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.gyanarpit",
+            "certificate_hash": "ac0554a12af88bb67b1a65507584c253e6ee7bd2"
+          }
+        },
+        {
+          "client_id": "817064744686-i7rlv0muuptqbjvhf3a1il150fonk0gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7YR1E0jBW-s9CHqouhYMXM2ywwAXUVZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817064744686-i7rlv0muuptqbjvhf3a1il150fonk0gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
